@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.so
+
+# Distribution / packaging
+.dist-dirs/
+*.egg-info/
+dist/
+build/
+eggs/
+lib/
+lib64/
+parts/
+*.egg
+
+# IDE / text editor specific
+# (adjust based on your IDE)
+.idea/
+.vscode/
+
+# Temporary test data
+.pytest_cache/
+
+# Logs
+*.log
+
+# Virtualenv
+.venv/
+env/
+venv/
+pyenv/
+
+# API keys or passwords
+.env
