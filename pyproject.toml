@@ -1,5 +1,5 @@
 [project]
-name = "hangul-shapeshift_ne0ekspert"
+name = "hangul-shapeshift"
 version = "0.1.0"
 authors = [
     { name="ne0ekspert", email="rlaaudwk5503@gmail.com" }
@@ -19,6 +19,3 @@ Issues = "https://github.com/ne0ekspert/hangul-shapeshift/issues"
 [build-system]
 requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
-
-[tool.setuptools.packages]
-find = {}
